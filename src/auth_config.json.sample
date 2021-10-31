@@ -1,0 +1,6 @@
+{
+  "domain": "<Auth0 domain>",
+  "clientId": "<Auth0 clientId>",
+  "audience": "<Auth0 audience>",
+  "orderApi": "<Auth0 order api>"
+}
